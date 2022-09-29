@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Amanda Macias, Holly Ellyatt",
+      "title": "Nord Stream pipelines hit by suspicious leaks in possible sabotage; Russia says it has 'a right' to use nuclear weapons - CNBC",
+      "description": "European officials are investigating what they suspect is sabotage of the Nord Stream pipelines that bring natural gas from Russia to Europe via the Baltic Sea.",
+      "url": "https://www.cnbc.com/2022/09/27/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107124832-1664270888129-gettyimages-469893730-DV2007341.jpeg?v=1664270968&w=1920&h=1080",
+      "publishedAt": "2022-09-27T16:28:00Z",
+      "content": "Suspicious leaks reported on the Nord Stream pipelines from Russia to Germany represent a severe safety and environment hazard, according to experts at the Eurasia Group. Nord Stream operator Nord… [+2012 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Julia Jacobo, Teddy Grant, Kevin Shalvey, Emily Shapiro",
+      "title": "Hurricane Ian's latest path: 2.5 million Floridians under evacuation orders - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/US/live-updates/hurricane-ian/?id=90445860",
+      "urlToImage": "https://s.abcnews.com/images/US/ian-fl-prep-01-gty-iwb-220927_1664284489784_hpMain_16x9_1600.jpg",
+      "publishedAt": "2022-09-27T16:25:00Z",
+      "content": "Hurricane Ian strengthened to a Category 3 storm on Tuesday as it made landfall in Cuba. Next, Ian heads to Florida. Landfall is expected late afternoon Wednesday between Tampa and Fort Myers, thoug… [+110 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eurogamer.net"
+      },
+      "author": "Will Judd",
+      "title": "AMD Ryzen 9 7900X and Ryzen 5 7600X review: welcome to the future - Eurogamer.net",
+      "description": "Digital Foundry tests the AMD Ryzen 7 5800X3D - an innovative new design that adds a stacked cache to the potent, efficient Ryzen 5800X to great results.",
+      "url": "https://www.eurogamer.net/digitalfoundry-2022-amd-ryzen-9-7900x-ryzen-5-7600x-review",
+      "urlToImage": "https://assets.reedpopcdn.com/DSCF7580.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/DSCF7580.jpg",
+      "publishedAt": "2022-09-27T16:04:33Z",
+      "content": "AMD's Ryzen 7000 processors are here, with a new 5nm process node and AM5 socket unlocking higher clock frequencies, greater power usage and in turn better performance. The four new CPUs releasing on… [+8588 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Mary Ilyushina",
+      "title": "Putin to declare annexation of Ukraine regions within days, U.K. says - The Washington Post",
+      "description": "With the Russian president's impending announcement, and fears that it could be accompanied by a declaration of martial law, the exodus of fighting-age Russian men trying to flee military mobilization appeared to be reaching critical levels.",
+      "url": "https://www.washingtonpost.com/world/2022/09/27/russia-ukraine-war-referendum/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QVI7AZR6LYI63DDOSODL27GYEY.jpg&w=1440",
+      "publishedAt": "2022-09-27T15:53:00Z",
+      "content": "Russian President Vladimir Putin plans to declare Russias annexation of four partially occupied regions in eastern Ukraine shortly after staged referendums organized by Kremlin proxies are concluded,… [+6059 chars]"
+    },
+    {
+      "source": {
+        "id": "politico",
+        "name": "Politico"
+      },
+      "author": null,
+      "title": "Manchin's energy plan likely to fail Senate test vote as shutdown clock ticks - POLITICO",
+      "description": "The West Virginian's permitting bill is attached to a government funding patch released minutes before midnight on Monday — but maybe not for long.",
+      "url": "https://www.politico.com/news/2022/09/27/manchin-energy-plan-senate-vote-funding-00058984",
+      "urlToImage": "https://static.politico.com/84/19/d81cb5804677900fe894040c90b9/senate-manchin-12332.jpg",
+      "publishedAt": "2022-09-27T15:32:09Z",
+      "content": "Sen. Tim Kaine (D-Va.) also announced Tuesday that hell oppose the combo legislation, joining Sen. Bernie Sanders (I-Vt.), who has pledged to vote down the funding bill if energy permitting provision… [+3183 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Chloe Melas",
+      "title": "Hayden Panettiere appears on 'Red Table Talk' and opens up about 'heartbreaking' decision to relinquish custody of her daughter - CNN",
+      "description": "Hayden Panettiere is sharing more about the custody arrangement of her only child.",
+      "url": "https://www.cnn.com/2022/09/27/entertainment/hayden-panettiere-custody-kid-red-table-talk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220927150427-hayden-panettiere.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-27T15:28:00Z",
+      "content": "Hayden Panettiere is sharing more about the custody arrangement of her only child. In a new episode of Red Table Talk, Panettiere opened up about the very upsetting experience of relinquishing custo… [+1293 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Dimorphos: Nasa flies spacecraft into asteroid in direct hit - BBC",
+      "description": "The same technique could be used to deflect space rocks that threaten Earth.",
+      "url": "https://www.bbc.com/news/science-environment-63039191",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5E34/production/_126861142_nasa.jpg",
+      "publishedAt": "2022-09-27T15:17:50Z",
+      "content": "Jonathan AmosScience correspondent@BBCAmoson Twitter Media caption, Watch: Hugs and high fives as scientists and engineers rejoice The American space agency's Dart probe has smashed into an asteroi… [+6044 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "US Home Prices Fall: Case-Shiller 20-City Index Posts First Decline Since 2012 - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=abb23775-3e85-11ed-9ecb-5645564c6252&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOS0yNy91cy1ob21lLXByaWNlLWdyb3d0aC1zbG93ZWQtaW4tanVseS1hcy1ob3VzaW5nLW1hcmtldC1jb29scw==",
+      "urlToImage": null,
+      "publishedAt": "2022-09-27T15:02:58Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Neurosciencenews.com"
+      },
+      "author": "Neuroscience News",
+      "title": "Coffee Drinking Is Associated With Increased Longevity - Neuroscience News",
+      "description": "Drinking at least two cups of coffee a day, even instant coffee was associated with increased longevity and a lower risk of cardiovascular disease.",
+      "url": "https://neurosciencenews.com/coffee-longevity-21524/",
+      "urlToImage": "https://neurosciencenews.com/files/2022/09/coffee-longevity-neurosicences-public.jpg",
+      "publishedAt": "2022-09-27T14:53:45Z",
+      "content": "Summary: Drinking at least two cups of coffee a day, even instant coffee was associated with increased longevity and a lower risk of cardiovascular disease. Source: European Society of Cardiology D… [+6779 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Robyn White",
+      "title": "Great White Shark That Killed Mom in Waist-High Water Appeared Through Wave - Newsweek",
+      "description": "South Africa's National Sea Rescue Institute says there has been more shark activity than usual this year, although the attack was deemed very unusual.",
+      "url": "https://www.newsweek.com/great-white-shark-killed-mom-waist-high-water-appeared-through-wave-1746634",
+      "urlToImage": "https://d.newsweek.com/en/full/2123078/great-white-shark.jpg",
+      "publishedAt": "2022-09-27T13:48:13Z",
+      "content": "A great white shark that killed a mom in waist-high water appeared through a wave before it attacked. Kimon Bisogno, 39, had been on a Plettenberg Bay beach in South Africa on Monday with her husban… [+2582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "PFT’s Week 4 2022 NFL power rankings - NBC Sports",
+      "description": "1. Dolphins (3-0; No. 6): To be the best, you’ve got to beat the best. And they did.2. Eagles (3-0; No. 4): The only difference between the Dolphins and Eagles? The Dolphins have beaten two great teams.3. Bills (2-1; No. 1): Ken Dorsey should switch to decaf …",
+      "url": "https://profootballtalk.nbcsports.com/2022/09/27/pfts-week-4-2022-nfl-power-rankings/",
+      "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/09/GettyImages-1427335789-2-e1664284928852.jpg",
+      "publishedAt": "2022-09-27T13:22:00Z",
+      "content": "1. Dolphins (3-0; No. 6): To be the best, youve got to beat the best. And they did. 2. Eagles (3-0; No. 4): The only difference between the Dolphins and Eagles? The Dolphins have beaten two great te… [+2917 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NASA"
+      },
+      "author": null,
+      "title": "NASA to Provide Media Update on Artemis I Rollback - NASA",
+      "description": "NASA will host a media teleconference at 2 p.m. EDT Tuesday, Sept. 27, to discuss the agency’s decision to roll the Artemis I Space Launch System rocket and Orion spacecraft back to the Vehicle Assembly Building (VAB) at NASA’s Kennedy Space Center in Florida…",
+      "url": "https://www.nasa.gov/press-release/nasa-to-provide-media-update-on-artemis-i-rollback/",
+      "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/maf_20220830_ksc_artemis1_epb_005_large.jpg",
+      "publishedAt": "2022-09-27T13:21:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jeremy Layton",
+      "title": "Buccaneers met over Aaron Rodgers' claim that Jumbotron showed something it 'shouldn't' - New York Post ",
+      "description": "An Aaron Rodgers admission on live TV has prompted a closed-door meeting with the team he beat over the weekend.",
+      "url": "https://nypost.com/2022/09/27/buccaneers-held-meeting-over-aaron-rodgers-jumbotron-claim/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-24017656-1664282705478.jpg?quality=75&strip=all&1664268425&w=1024",
+      "publishedAt": "2022-09-27T13:17:00Z",
+      "content": "An Aaron Rodgers admission on live TV has prompted a closed-door meeting with the team he beat over the weekend. After the Packers’ 14-12 victory over the Buccaneers on Sunday, in which Tampa Bay fa… [+1246 chars]"
+    },
+    {
+      "source": {
+        "id": "nfl-news",
+        "name": "NFL News"
+      },
+      "author": "Kevin Patra",
+      "title": "Mike McCarthy on backup QB Cooper Rush leading Cowboys to back-to-back wins: 'He doesn’t get rattled' - NFL.com",
+      "description": "The Cowboys have won two straight games with QB Cooper Rush, who has helped keep the team afloat in the early portion of the 2022 season following Dak Precott's thumb injury.",
+      "url": "https://www.nfl.com/news/mike-mccarthy-on-backup-qb-cooper-rush-leading-cowboys-to-back-to-back-wins-he-d",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/ps2bldik1ktbdszrvtqs",
+      "publishedAt": "2022-09-27T13:08:00Z",
+      "content": "Monday night, Rush played poised, made a host of good throws and was never rattled on the road. He finished 21-of-31 passing for 215 yards and a touchdown with no interceptions for a 98.2 passer rati… [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Andrew Feinberg",
+      "title": "Boebert, Marjorie Taylor Greene and Ted Cruz under fire for celebrating Italian far-right victory - The Independent",
+      "description": "Italian politician Giorgia Meloni’s party traces its roots to the Second World War-era fascist movement founded by Benito Mussolini",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/giorgia-meloni-boebert-marjorie-taylor-greene-b2175719.html",
+      "urlToImage": "https://static.independent.co.uk/2022/04/29/13/newFile-2.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-09-27T13:07:34Z",
+      "content": "House and Senate Republicans aligned with former president Donald Trump are hailing the emergence of the first Italian fascist leader since the Second World War as a sign that the world is embracing … [+1912 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Rob Sheffield",
+      "title": "100 Best Songs of 1982 – Rolling Stone - Rolling Stone",
+      "description": "All-time classics, buried treasures, cult favorites, and one-hit wonders — from Prince and Duran Duran to Kate Bush and the Go-Go's to the Replacements and R.E.M.",
+      "url": "https://www.rollingstone.com/music/music-lists/best-songs-of-1982-1234592830/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/09/1982-songs-list.jpg?w=1024",
+      "publishedAt": "2022-09-27T13:01:27Z",
+      "content": "Welcome to 1982: the year that invented pop music as we know it today. One of the most experimental, innovative, insanely abundant music years ever. Hip-hop takes over with “The Message” and “Planet … [+2465 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Michael Scherer, Josh Dawsey, Isaac Arnsdorf, Marianna Sotomayor",
+      "title": "How Kevin McCarthy's political machine worked to sway the GOP field - The Washington Post",
+      "description": "Allies spent millions in a sometimes secretive effort to weed out candidates who could cause the House leader trouble or jeopardize GOP victories in November.",
+      "url": "https://www.washingtonpost.com/politics/2022/09/27/mccarthy-midterms-gop/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CWY3Z2B3QII63OFPBICOLXB5WY.jpg&w=1440",
+      "publishedAt": "2022-09-27T13:00:00Z",
+      "content": "Rep. Madison Cawthorn (R-N.C.) made a name for himself as a firebrand social media phenomenon who delighted in trolling the left, famously boasting to colleagues that he had built his House office by… [+14665 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Andrew Jeong",
+      "title": "Biden to reveal plan for reducing obesity, ending hunger by 2030 - The Washington Post",
+      "description": "The first White House conference on hunger in over 50 years will tackle what the administration calls the country’s “urgent, nutrition-related health crisis.”",
+      "url": "https://www.washingtonpost.com/politics/2022/09/27/biden-end-hunger-crisis-2030/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7GDCMUWQ3YI6ZCDL353BQPJDH4.jpg&w=1440",
+      "publishedAt": "2022-09-27T12:00:00Z",
+      "content": "The White House will convene a national conference on dietary health and food security on Wednesday for the first time in over 50 years to launcha national campaign that seeks to tackle high obesity … [+3478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Reuters",
+      "title": "Spanish court formally sends Shakira to trial for tax fraud - Yahoo News",
+      "description": "A Spanish court on Tuesday formally ordered Colombian superstar Shakira to stand trial on accusations that she failed to pay 14.5 million euros ($14.31...",
+      "url": "https://news.yahoo.com/spanish-court-formally-sends-shakira-114306005.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/BcoGvPdK57mR.XOksGQk9g--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/04d0ac4f9dae38f02444cabf97b05b98",
+      "publishedAt": "2022-09-27T11:43:06Z",
+      "content": "MADRID (Reuters) - A Spanish court on Tuesday formally ordered Colombian superstar Shakira to stand trial on accusations that she failed to pay 14.5 million euros ($14.31 million) in income taxes, a … [+1172 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Hannah Rabinowitz, Holmes Lybrand",
+      "title": "Historic trial for Oath Keepers leader and his top lieutenants over January 6 set to begin - CNN",
+      "description": "The Justice Department this week will argue at trial for the first time in over a decade that a group of Americans plotted to violently oppose the US government.",
+      "url": "https://www.cnn.com/2022/09/27/politics/oath-keepers-sedition-trial-january-6/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220907201757-stewart-rhodes-file-restricted-060220.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-27T11:42:00Z",
+      "content": "The Justice Department this week will argue at trial for the first time in over a decade that a group of Americans plotted to violently oppose the US government. The historic trial of Oath Keepers l… [+6189 chars]"
+    }
+  ]
+}
