@@ -24,3 +24,6 @@ class NewsSportsSucessState extends NewsStates{}
 //   NewsBusinessErrorState(this.error);
 // }
 class NewsSportsLoadingStates extends NewsStates{}
+class NewsSearchLoadingStates extends NewsStates{}
+
+class NewsSearchSucessState extends NewsStates{}

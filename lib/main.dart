@@ -29,8 +29,12 @@ MyApp(this.isDark);
 
   @override
   Widget build(BuildContext context) {
-    return BlocProvider(
-      create: (BuildContext context)=>AppCubit()..changeAppMode(fromShared: isDark),
+    return MultiBlocProvider(
+      providers: [
+        BlocProvider(create:(context)=>NewsCubit()..getbusiness()..getscience()..getsport(),),
+        BlocProvider(create:(BuildContext context)=>AppCubit()..changeAppMode(fromShared: isDark),)
+      ],
+
       child: BlocConsumer<AppCubit,AppStates>(
         listener: (context,state){},
         builder: (context,state){return MaterialApp(

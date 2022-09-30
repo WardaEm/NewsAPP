@@ -5,6 +5,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:newsapp/layout/newsApp/cubit/cubit.dart';
 import 'package:newsapp/modules/busniss/business.dart';
 import 'package:newsapp/modules/science/science_screen.dart';
+import 'package:newsapp/modules/search/search.dart';
 import 'package:newsapp/modules/sport/sport_screen.dart';
 import 'package:newsapp/shared/network/remote/dio_helper.dart';
 
@@ -16,9 +17,8 @@ class NewsLayout extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  BlocProvider(
-      create: (BuildContext context) => NewsCubit()..getbusiness()..getscience()..getsport(),
-      child: BlocConsumer<NewsCubit,NewsStates> (
+    return
+      BlocConsumer<NewsCubit,NewsStates> (
         listener: (BuildContext context, state){},
         builder: (BuildContext context, Object? state) {
           var cubit=NewsCubit.get(context);
@@ -28,7 +28,9 @@ class NewsLayout extends StatelessWidget {
                 'News App'
             ),
             actions: [
-              IconButton(onPressed: (){ }, icon:Icon(Icons.search)),
+              IconButton(onPressed: (){
+                Navigator.push(context, MaterialPageRoute(builder: (context)=>Search()));
+              }, icon:Icon(Icons.search)),
               IconButton(onPressed: (){
                 AppCubit.get(context).changeAppMode();
               }, icon:Icon(Icons.brightness_4_outlined))
@@ -79,7 +81,7 @@ onTap: (index){
 
         ); },
 
-      ),
+
     );
   }
 }

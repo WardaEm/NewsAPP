@@ -85,8 +85,21 @@ void  getbusiness()  async {
       emit(NewsSportsSucessState());
     }
   }
-  // bool isDark=true;
-// ThemeMode themeMode=ThemeMode.light;
 
+  List<dynamic>search=[];
+  void  getSearch(String value)  async {
+    emit(NewsSearchLoadingStates());
+    // if(search.length==0){
+      Response response;
+      Dio dio = Dio();
 
+      response = await dio.get(
+          'https://newsapi.org/v2/everything?q=tesla&apiKey=73d5af48b53a4017934a0cf44bf12a3f');
+    search=response.data['articles'];
+      print(search.toString());
+      emit(NewsSearchSucessState());
+    // }else{
+    //   emit(NewsSearchSucessState());
+    // }
+  }
 }
